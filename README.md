@@ -1,0 +1,2 @@
+# Postgraduate-thesis-Investigation-of-efficient-energy-storage-system-and-Fiber-Optics-
+This paper investigates the vanadium redox flow battery energy storing system with techno-chemical and economic feasibility analysis and further, the ambience like temperature of energy storage system is assessed by optical sensor like Fiber Bragg Grating to provide feedback and maintain the healthy functional state.
