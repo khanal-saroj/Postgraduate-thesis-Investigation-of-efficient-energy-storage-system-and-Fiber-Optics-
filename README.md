@@ -1,6 +1,7 @@
 # Postgraduate-thesis-Investigation-of-efficient-energy-storage-system-and-Fiber-Optics-
 Tools : MATLAB, Python, HomerPro, Excel
-Role : Syatem design for FMU block, data analysis, techno-chemical and techno-economic feasibility check.
+
+Role : System design for FMU block, data analysis, techno-chemical and techno-economic feasibility check.
 
 # Project overview:
 -This paper investigates the vanadium redox flow battery energy storing system with techno-chemical and economic feasibility analysis and further, the ambience like temperature of energy storage system is assessed by optical sensor like Fiber Bragg Grating to provide feedback and maintain the healthy functional state.
